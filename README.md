@@ -5,12 +5,7 @@
 ![Version](https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge)
 ![Language](https://img.shields.io/badge/C11-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Linux-macOS-2ea44f?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-</p>
-
-<p align="center">
-<img src="assets/banner.png" width="900" alt="ARISE Banner">
 </p>
 
 <p align="center">
