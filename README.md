@@ -406,8 +406,6 @@ It helps the project grow and motivates future development.
 
 ---
 
----
-
 # 👨‍💻 Author
 
 **Anuj Kumar Jha**
