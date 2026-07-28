@@ -406,10 +406,6 @@ It helps the project grow and motivates future development.
 
 ---
 
-# 📄 License
-
-Licensed under the **MIT License**.
-
 ---
 
 # 👨‍💻 Author
