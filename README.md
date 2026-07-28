@@ -101,38 +101,6 @@ Save changes before closing?
 [N] Discard
 [C] Cancel
 ```
-
----
-
-# 📸 Screenshots
-
-## Editor
-
-```
-+----------------------------------------------------+
-| main.c                                  [+]        |
-|----------------------------------------------------|
-|  1 #include <stdio.h>                             |
-|  2 int main() {                                   |
-|  3     printf("Hello World");                     |
-|  4 }                                              |
-|----------------------------------------------------|
-| Ctrl+Q Quit | Ctrl+S Save | Ctrl+C Copy           |
-+----------------------------------------------------+
-```
-
-(Add real screenshots later)
-
----
-
-# 🎥 Demo
-
-![Demo](assets/demo.gif)
-
-(Add GIF later)
-
----
-
 # 🚀 Installation
 
 ## Ubuntu / Debian
